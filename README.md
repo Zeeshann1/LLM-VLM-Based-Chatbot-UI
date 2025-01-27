@@ -2,7 +2,7 @@
 
 <img width="320" src="assets/1.jpg">
 
-#### Features
+#### Features:
 - Chat with documents
 - RAG & Embeddings 
 - Chat ith images
@@ -11,7 +11,7 @@
 - Chat with any website
 - Summarize any website
 
-#### Models
+#### LLM & VLM:
 - Lama3.2:3B
 - Lama3.2-vision:11B
 - Mistral:7B
