@@ -5,7 +5,7 @@
 #### Features:
 - Chat with documents
 - RAG & Embeddings 
-- Chat ith images
+- Chat with images
 - llava image API
 - Chatbot Q&A
 - Chat with any website
